@@ -5,16 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Turrent.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/SpawnPoint.uasset",
-				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Bullet.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/MoneyValue.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3N/HZS9WW5XY48G3AN1CD689V.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Bullet.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Turret.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Explosive.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/ExplosiveTurret.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Bullet_2.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/UN/9SJLEV7D76UK6DCK4O6ZY0.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/0W/IL5WY3U2JK191B7UK96T4H.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Turrent.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Bullet.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4R/3XIAYY7WUS6YWKSJNB617V.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/22/WTML7NOFOEDMK0FDCWOXON.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Turret.uasset",
-				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Bullet.uasset",
-				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Turret.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/SPa.uasset"
 			]
 		}
