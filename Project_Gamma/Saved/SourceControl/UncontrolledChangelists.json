@@ -6,13 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Turrent.uasset",
-				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/SPa.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/SpawnPoint.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Bullet.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/MoneyValue.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3N/HZS9WW5XY48G3AN1CD689V.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4R/3XIAYY7WUS6YWKSJNB617V.uasset",
-				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/22/WTML7NOFOEDMK0FDCWOXON.uasset"
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/22/WTML7NOFOEDMK0FDCWOXON.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turrent/Turret.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Bullet.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/Turret/Turret.uasset",
+				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/SPa.uasset"
 			]
 		}
 	]
