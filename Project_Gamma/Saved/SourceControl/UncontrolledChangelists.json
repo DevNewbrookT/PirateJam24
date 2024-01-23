@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Menu_OptionToggle.uasset",
+				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Blueprints/Enum_Resolution.uasset",
+				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Blueprints/Enum_ToggleSelection.uasset",
+				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/InterfaceScreens/MainMenus/UI_MainMenu_Menu_Ver2.uasset",
+				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/TempWidget.uasset",
 				"C:/Users/B00847870/Documents/GitHub/PirateJam24/Project_Gamma/Content/Conaill-map/Untitled.umap",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/SpawnPoint.uasset",
 				"C:/Users/B00834492/Desktop/PirateJam24/Project_Gamma/Content/ChrisStuff/MoneyValue.uasset",
