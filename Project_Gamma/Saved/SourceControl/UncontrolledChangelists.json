@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Github/PirateJam24/Project_Gamma/Content/Conaill-map/Untitled.umap",
+				"D:/Github/PirateJam24/Project_Gamma/Content/Conaill-map/Mat/Green.uasset",
+				"D:/Github/PirateJam24/Project_Gamma/Content/Conaill-map/Mat/Brown.uasset",
+				"D:/Github/PirateJam24/Project_Gamma/Content/Conaill-map/Mat/Blue.uasset",
+				"D:/Github/PirateJam24/Project_Gamma/Content/Conaill-map/Mat/Grey.uasset",
+				"D:/Github/PirateJam24/Project_Gamma/Content/Gate__Falling.uasset",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Btn_MenuTab.uasset",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Btn_Menu.uasset",
