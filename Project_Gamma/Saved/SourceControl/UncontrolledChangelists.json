@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Github/PirateJam24/Project_Gamma/Content/Conaill-map/Untitled.umap",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Btn_MenuTab.uasset",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Btn_Menu.uasset",
@@ -25,6 +24,9 @@
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/InterfaceScreens/ShopScreens/UI_Shop_InterfaceSystem_Main.uasset",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_ShopItemElement.uasset",
 				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Menu_Bindings.uasset",
+				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Menu_Slider.uasset",
+				"C:/Users/jonor/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Menu_OptionToggle.uasset",
+				"D:/Github/PirateJam24/Project_Gamma/Content/Conaill-map/Untitled.umap",
 				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Elements/UI_Menu_OptionToggle.uasset",
 				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Blueprints/Enum_Resolution.uasset",
 				"C:/Users/B00833799/Documents/GitHub/PirateJam24/Project_Gamma/Content/JonStuff/UI/Blueprints/Enum_ToggleSelection.uasset",
